@@ -2,7 +2,7 @@
 
 This app is simple offline activity tracker which showes user its activity with stats he permitted to be tracked 
 
-For privacy see [Link](https://umairkhalid786.github.io/TMRun/privacy.html/).
+For privacy see [Link](https://umairkhalid786.github.io/TMRun/privacy.html).
 
 <!-- ### Markdown
 
