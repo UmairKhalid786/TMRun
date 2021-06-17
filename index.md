@@ -2,7 +2,7 @@
 
 This app is simple offline activity tracker which showes user its activity with stats he permitted to be tracked 
 
-For privacy see [Link](https://guides.github.com/features/mastering-markdown/).
+For privacy see [Link](https://umairkhalid786.github.io/TMRun/privacy.html/).
 
 <!-- ### Markdown
 
